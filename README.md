@@ -11,4 +11,9 @@ predict one of four labels:
 1. **Legit Email**   
 2. **Phishing Email**   
 3. **Legit URL**   
-4. **Phishing URL**  
+4. **Phishing URL**
+
+5. ---
+
+6. Dataset
+7. We use the public cybersectony/PhishingEmailDetectionv2.0 dataset. 
